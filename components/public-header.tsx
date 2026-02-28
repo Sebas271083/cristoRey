@@ -18,6 +18,7 @@ const navLinks = [
   { label: "Noticias", href: "/noticias" },
   { label: "Calendario", href: "/calendario" },
   { label: "Inscripcion", href: "/inscripcion" },
+  { label: "Contacto", href: "/contacto" },
 ];
 
 export function PublicHeader() {
